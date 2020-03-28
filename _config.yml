@@ -28,31 +28,33 @@ projects:
     projects:
     # - repo-name
 
-# social_media:
+social_media:
   # behance: your_username
   # dribbble: your_username
-  # facebook: your_username
+  facebook: yuri.dogandjiev
   # hackerrank: your_username
   # instagram: your_username
   # keybase: your_username
-  # linkedin: your_username
+  linkedin: ydogandjiev
   # mastodon: your_username
   # medium: your_username
-  # stackoverflow: your_user_id
+  stackoverflow: 5667394
   # telegram: your_username
-  # twitter: your_username
+  twitter: ydogandjiev
   # unsplash: your_username
   # vk: your_username
-  # website: http://your_website_url
+  website: https://dogandjiev.com
   # youtube: your_username
 
 topics:
-  - name: CSS
-    web_url: https://github.com/topics/css
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png
+  - name: Azure
+    web_url: https://github.com/topics/azure
+    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png
 
-  - name: Web design
+  - name: Docker
+    web_url: https://github.com/topics/docker
+    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png
 
-  - name: Sass
-    web_url: https://github.com/topics/sass
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/sass/sass.png
+  - name: React
+    web_url: https://github.com/topics/react
+    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png
